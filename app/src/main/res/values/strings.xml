@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Figma Store Gallery</string>
+    <string name="all">All</string>
+    <string name="party">Party</string>
+    <string name="camping">Camping</string>
+    <string name="category1" tools:ignore="Typos">Category1</string>
+    <string name="category2">Category2</string>
+    <string name="category3">Category3</string>
+    <string name="belt_suit_blazer">Belt suit blazer</string>
+    <string name="_120">$120</string>
+    <string name="cover">Cover</string>
+    <string name="title_place_holder">Title Place Holder</string>
+    <string name="author_placeholder">Author PlaceHolder</string>
+</resources>
